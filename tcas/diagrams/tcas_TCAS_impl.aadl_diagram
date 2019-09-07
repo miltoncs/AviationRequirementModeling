@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="5">
+  <element id="0" manual="true">
+    <element id="1">
+      <element id="2">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>a_to_td</seg>
+      </bo>
+      <bendpoints>
+        <point x="1345.0" y="223.0"/>
+        <point x="1345.0" y="278.0"/>
+      </bendpoints>
+      <contentFilters/>
+    </element>
+    <element id="44">
+      <element id="45">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>h_to_td</seg>
+      </bo>
+      <bendpoints>
+        <point x="1335.0" y="273.0"/>
+        <point x="1335.0" y="328.0"/>
+      </bendpoints>
+      <contentFilters/>
+    </element>
+    <element id="28">
+      <element id="29">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>il_to_rs</seg>
+      </bo>
+      <bendpoints>
+        <point x="631.0" y="353.0"/>
+        <point x="631.0" y="120.0"/>
+        <point x="1940.0" y="120.0"/>
+        <point x="1940.0" y="253.0"/>
+      </bendpoints>
+      <contentFilters/>
+    </element>
+    <element id="5">
+      <element id="6">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>nia_to_te</seg>
+      </bo>
+      <contentFilters/>
+    </element>
+    <element id="26">
+      <element id="27">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>nid_to_te</seg>
+      </bo>
+      <contentFilters/>
+    </element>
+    <element id="7">
+      <element id="8">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>ol_to_rs</seg>
+      </bo>
+      <bendpoints>
+        <point x="1355.0" y="173.0"/>
+        <point x="1355.0" y="225.0"/>
+        <point x="1930.0" y="225.0"/>
+        <point x="1930.0" y="303.0"/>
+      </bendpoints>
+      <contentFilters/>
+    </element>
+    <element id="36">
+      <element id="37">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>pa_to_td</seg>
+      </bo>
+      <contentFilters/>
+    </element>
+    <element id="24">
+      <element id="25">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>rv_to_rs</seg>
+      </bo>
+      <bendpoints>
+        <point x="1950.0" y="92.0"/>
+        <point x="1950.0" y="203.0"/>
+      </bendpoints>
+      <contentFilters/>
+    </element>
+    <element id="18">
+      <element id="19">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>td_to_rs</seg>
+      </bo>
+      <contentFilters/>
+    </element>
+    <element id="46">
+      <element id="47">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>vv_to_td</seg>
+      </bo>
+      <bendpoints>
+        <point x="1325.0" y="323.0"/>
+        <point x="1325.0" y="378.0"/>
+      </bendpoints>
+      <contentFilters/>
+    </element>
+    <element id="30">
+      <element id="34" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>altitude</seg>
+        </bo>
+        <position x="328.0" y="60.0"/>
+        <contentFilters/>
+      </element>
+      <element id="33" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>heading</seg>
+        </bo>
+        <position x="324.0" y="110.0"/>
+        <contentFilters/>
+      </element>
+      <element id="31" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>ownlatitude</seg>
+        </bo>
+        <position x="297.0" y="10.0"/>
+        <contentFilters/>
+      </element>
+      <element id="32" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>ownlongitude</seg>
+        </bo>
+        <position y="85.0"/>
+        <contentFilters/>
+      </element>
+      <element id="35" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>verticalvelocity</seg>
+        </bo>
+        <position x="277.0" y="160.0"/>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>instrumentation</seg>
+      </bo>
+      <position x="909.0" y="119.0"/>
+      <size width="394.0" height="210.0"/>
+      <contentFilters>
+        <filter>features</filter>
+        <filter>internalFeatures</filter>
+        <filter>processorFeatures</filter>
+        <filter>connections</filter>
+        <filter>flowSpecifications</filter>
+      </contentFilters>
+    </element>
+    <element id="3">
+      <element id="4" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>requiredverticalvelocity</seg>
+        </bo>
+        <position x="374.0" y="10.0"/>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>maneuvertemplates</seg>
+      </bo>
+      <position x="1348.0" y="38.0"/>
+      <size width="555.0" height="60.0"/>
+      <contentFilters>
+        <filter>features</filter>
+        <filter>internalFeatures</filter>
+        <filter>processorFeatures</filter>
+        <filter>connections</filter>
+        <filter>flowSpecifications</filter>
+      </contentFilters>
+    </element>
+    <element id="9">
+      <element id="10" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>intruderlatitude</seg>
+        </bo>
+        <position y="60.0"/>
+        <contentFilters/>
+      </element>
+      <element id="11" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>ownlatitude</seg>
+        </bo>
+        <position y="110.0"/>
+        <contentFilters/>
+      </element>
+      <element id="12" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>requiredverticalvelocity</seg>
+        </bo>
+        <position y="10.0"/>
+        <contentFilters/>
+      </element>
+      <element id="13" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>threatdetected</seg>
+        </bo>
+        <position y="160.0"/>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>responseselection</seg>
+      </bo>
+      <position x="1948.0" y="149.0"/>
+      <size width="542.0" height="210.0"/>
+      <contentFilters>
+        <filter>features</filter>
+        <filter>internalFeatures</filter>
+        <filter>processorFeatures</filter>
+        <filter>connections</filter>
+        <filter>flowSpecifications</filter>
+      </contentFilters>
+    </element>
+    <element id="14">
+      <element id="15" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>nearestintruderaltitude</seg>
+        </bo>
+        <position x="425.0" y="110.0"/>
+        <contentFilters/>
+      </element>
+      <element id="17" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>nearestintrudergrounddistance</seg>
+        </bo>
+        <position x="367.0" y="60.0"/>
+        <contentFilters/>
+      </element>
+      <element id="16" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>nearestintruderlatitude</seg>
+        </bo>
+        <position x="422.0" y="10.0"/>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>surveillance</seg>
+      </bo>
+      <position x="12.0" y="299.0"/>
+      <size width="597.0" height="160.0"/>
+      <contentFilters>
+        <filter>features</filter>
+        <filter>internalFeatures</filter>
+        <filter>processorFeatures</filter>
+        <filter>connections</filter>
+        <filter>flowSpecifications</filter>
+      </contentFilters>
+    </element>
+    <element id="38">
+      <element id="41" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>altitude</seg>
+        </bo>
+        <position y="10.0"/>
+        <contentFilters/>
+      </element>
+      <element id="39" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>heading</seg>
+        </bo>
+        <position y="60.0"/>
+        <contentFilters/>
+      </element>
+      <element id="42" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>projectedaltitude</seg>
+        </bo>
+        <position y="160.0"/>
+        <contentFilters/>
+      </element>
+      <element id="40" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>threatdetected</seg>
+        </bo>
+        <position x="305.0" y="85.0"/>
+        <contentFilters/>
+      </element>
+      <element id="43" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>verticalvelocity</seg>
+        </bo>
+        <position y="110.0"/>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>threatdetection</seg>
+      </bo>
+      <position x="1381.0" y="224.0"/>
+      <size width="416.0" height="210.0"/>
+      <contentFilters>
+        <filter>features</filter>
+        <filter>internalFeatures</filter>
+        <filter>processorFeatures</filter>
+        <filter>connections</filter>
+        <filter>flowSpecifications</filter>
+      </contentFilters>
+    </element>
+    <element id="20">
+      <element id="21" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>nearestintruderaltitude</seg>
+        </bo>
+        <position y="60.0"/>
+        <contentFilters/>
+      </element>
+      <element id="22" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>nearestintrudergrounddistance</seg>
+        </bo>
+        <position y="10.0"/>
+        <contentFilters/>
+      </element>
+      <element id="23" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>projectedaltitude</seg>
+        </bo>
+        <position x="545.0" y="35.0"/>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>trajectoryextrapolation</seg>
+      </bo>
+      <position x="629.0" y="349.0"/>
+      <size width="674.0" height="110.0"/>
+      <contentFilters>
+        <filter>features</filter>
+        <filter>internalFeatures</filter>
+        <filter>processorFeatures</filter>
+        <filter>connections</filter>
+        <filter>flowSpecifications</filter>
+      </contentFilters>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>tcas.impl</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="2502.0" height="471.0"/>
+    <contentFilters>
+      <filter>features</filter>
+      <filter>internalFeatures</filter>
+      <filter>processorFeatures</filter>
+      <filter>connections</filter>
+      <filter>flowSpecifications</filter>
+      <filter>subcomponents</filter>
+    </contentFilters>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>tcas::tcas.impl</seg>
+    </context>
+  </config>
+</diagram:Diagram>
